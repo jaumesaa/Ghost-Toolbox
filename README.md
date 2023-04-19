@@ -18,6 +18,8 @@ Aquí están las características que se han agregado en esta versión:
 -  Preguntamos si queremos instalar NVIDIA Geforce Experience: para permitir a los usuarios personalizar aún más su experiencia de juego.
 -  Tienda de Windows Microsoft Store: para permitir a los usuarios descargar e instalar aplicaciones de la tienda de Windows.
 -  DriverEasy: una solución útil para descargar controladores de dispositivo en el sistema. Aunque es un poco lenta, esta herramienta es muy eficaz para mantener los controladores actualizados y en buen estado.
+
+
 # **Créditos: **
 
 
