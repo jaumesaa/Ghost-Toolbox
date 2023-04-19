@@ -1,4 +1,6 @@
-**Ghost-Toolbox**
+# **Ghost-Toolbox**
+
+
 Este proyecto es una versión mejorada de Ghost-Toolbox, una colección de herramientas para personalizar y optimizar el sistema operativo Windows. En esta versión, se han agregado algunas características útiles para hacer la herramienta aún más útil y completa.
 
 Características agregadas
